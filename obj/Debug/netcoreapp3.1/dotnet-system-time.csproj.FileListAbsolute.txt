@@ -1,0 +1,11 @@
+D:\CodeGym\Bai2\dotnet-system-time\bin\Debug\netcoreapp3.1\dotnet-system-time.exe
+D:\CodeGym\Bai2\dotnet-system-time\bin\Debug\netcoreapp3.1\dotnet-system-time.deps.json
+D:\CodeGym\Bai2\dotnet-system-time\bin\Debug\netcoreapp3.1\dotnet-system-time.runtimeconfig.json
+D:\CodeGym\Bai2\dotnet-system-time\bin\Debug\netcoreapp3.1\dotnet-system-time.runtimeconfig.dev.json
+D:\CodeGym\Bai2\dotnet-system-time\bin\Debug\netcoreapp3.1\dotnet-system-time.dll
+D:\CodeGym\Bai2\dotnet-system-time\bin\Debug\netcoreapp3.1\dotnet-system-time.pdb
+D:\CodeGym\Bai2\dotnet-system-time\obj\Debug\netcoreapp3.1\dotnet-system-time.csprojAssemblyReference.cache
+D:\CodeGym\Bai2\dotnet-system-time\obj\Debug\netcoreapp3.1\dotnet-system-time.AssemblyInfoInputs.cache
+D:\CodeGym\Bai2\dotnet-system-time\obj\Debug\netcoreapp3.1\dotnet-system-time.AssemblyInfo.cs
+D:\CodeGym\Bai2\dotnet-system-time\obj\Debug\netcoreapp3.1\dotnet-system-time.dll
+D:\CodeGym\Bai2\dotnet-system-time\obj\Debug\netcoreapp3.1\dotnet-system-time.pdb
